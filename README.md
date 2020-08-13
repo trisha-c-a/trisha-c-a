@@ -1,8 +1,8 @@
-### Hi there, I'm Jesse - aka [codeSTACKr][website] 👋
+### Hello! I'm Trisha 👋
 
-## I'm a Husband, Father, Developer, and Teacher!
-- 🔭 I’m currently working on a [VS Code Course][website]!
-- 🌱 I’m currently learning everything 🤣
+## I'm an Electronics Engineering Student With a Love for Algorithms!
+- 🔭 I'm currently applying my understanding of computer vision to a segmentation project
+- 🌱 I’ve started expanding my knowledge of algorithms through an online course
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 2020 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love to draw and play guitar / drums
