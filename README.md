@@ -10,7 +10,7 @@
 ### 🙌 Connect With Me:
 
 [1]: https://www.linkedin.com/in/trisha-anil/
-[![linkedin](https://cloud.githubusercontent.com/assets/17016297/18839836/0a06deb4-83d2-11e6-8078-1d0974af0f63.png)][1]
+[![linkedin](https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg)][1]
 <br />
 
 ---
