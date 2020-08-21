@@ -1,7 +1,7 @@
 ### Hello! I'm Trisha 👋
 
 ## I'm an Electronics Engineering Student With a Love for Algorithms!
-- 🔬 I'm currently working on an image segmentation project with my peers
+- 🔬 I'm currently working on an image segmentation research project with my peers
 - 📚 I’ve started expanding my knowledge of algorithms through an online course
 - 👯 I’m looking to collaborate on computer vision related projects
 - 📝 2020 Goals: Work on projects that have been on my mind for a year
