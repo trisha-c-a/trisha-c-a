@@ -11,6 +11,7 @@
 
 [1]: https://www.linkedin.com/in/trisha-anil/
 [![linkedin] img align="left" width="22px"(https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg)][1]
+[<img align="left" alt="trisha-anil | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 <br />
 
 ---
