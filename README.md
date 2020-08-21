@@ -7,13 +7,13 @@
 - 📝 2020 Goals: Work on projects that have been on my mind for a year
 - 🎵 Fun fact: I do ballet and play the keyboard/guitar!
 
-### Connect with me:
+### 🙌 Connect With Me:
 
 [<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://www.linkedin.com/in/trisha-anil/" />][linkedin]
 
 <br />
 
-### Languages and Tools:
+### 🔧 Languages and Tools:
 
 [<img align="left" alt="Python" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />][python]
 [<img align="left" alt="CPP" width="26px" src="https://raw.githubusercontent.com/isocpp/logos/master/cpp_logo.png" />][cpp]
@@ -23,6 +23,14 @@
 
 <br />
 <br />
+
+---
+
+### 💻 Latest Projects
+<!-- BLOG-POST-LIST:START -->
+- [Wheat_Detection_Using_Faster_R-CNN](https://github.com/trisha-c-a/Wheat_Detection_Using_Faster_R-CNN)
+- [The_Office_YOLOv3](https://github.com/trisha-c-a/The_Office_YOLOv3)
+<!-- BLOG-POST-LIST:END -->
 
 ---
 
