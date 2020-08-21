@@ -7,14 +7,12 @@
 - 📝 2020 Goals: Work on projects that have been on my mind for a year
 - 🎵 Fun fact: I do ballet and play the keyboard/guitar!
 
-### 🙌 Connect With Me:
+### 🙌 Connect With Me
 
    [1]: https://www.linkedin.com/in/trisha-anil/
-   [<img align="left" width="35px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][1]
-   
+   [<img align="left" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][1]
    
 <br />
-
 
 ---
 
