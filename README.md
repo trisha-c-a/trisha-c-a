@@ -18,9 +18,12 @@
 
 ### 🔧 Languages and Tools
 
-   [<img align="left" width="22px" src="https://github.com/valohai/ml-logos/blob/master/tensorflow-tf.svg" />]
-   [<img align="left" width="22px" src="https://github.com/valohai/ml-logos/blob/master/keras.svg" />]
-   [<img align="left" width="22px" src="https://github.com/valohai/ml-logos/blob/master/pytorch.svg" />]
+   <img align="left" width="22px" src="https://github.com/isocpp/logos/blob/master/cpp_logo.svg" />
+   <img align="left" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" />
+   <img align="left" width="22px" src="https://github.com/valohai/ml-logos/blob/master/tensorflow-tf.svg" />
+   <img align="left" width="22px" src="https://github.com/valohai/ml-logos/blob/master/keras.svg" />
+   <img align="left" width="70px" src="https://github.com/valohai/ml-logos/blob/master/pytorch.svg" />
+   <img align="left" width="22px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
    
 <br />
 
