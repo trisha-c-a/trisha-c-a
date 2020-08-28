@@ -20,8 +20,7 @@
 
    [<img align="left" width="22px" src="https://github.com/valohai/ml-logos/blob/master/tensorflow-tf.svg" />]
    [<img align="left" width="22px" src="https://github.com/valohai/ml-logos/blob/master/keras.svg" />]
-   [<img align="left" width="22px" src="https://www.vectorlogo.zone/util/preview.html?image=/logos/pytorch/pytorch-icon.svg" />]
-   [<img align="left" width="22px" src="https://github.com/valohai/ml-logos/blob/master/tensorflow-tf.svg" />]
+   [<img align="left" width="22px" src="https://github.com/valohai/ml-logos/blob/master/pytorch.svg" />]
    
 <br />
 
