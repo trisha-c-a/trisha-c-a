@@ -10,7 +10,9 @@
 ### 🙌 Connect With Me
 
    [1]: https://www.linkedin.com/in/trisha-anil/
+   [2]: https://www.kaggle.com/trishaanil
    [<img align="left" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][1]
+   [<img align="left" width="70px" src="https://upload.wikimedia.org/wikipedia/commons/7/7c/Kaggle_logo.png" />][2]
    
 <br />
 
