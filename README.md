@@ -3,8 +3,8 @@
 ## I'm an Electronics Engineering Student With a Love for Algorithms!
 - 🔬 I'm currently working on an image segmentation research project with my peers
 - 📚 I’ve started expanding my knowledge of algorithms through an online course
-- 👯 I’m looking to collaborate on computer vision related projects
-- 📝 2020 Goals: Work on projects that have been on my mind for a year
+- 👯 I’m looking to collaborate on projects related to computer vision
+- 📝 2020 Goals: Work on ideas that have been on my mind for a year
 - 🎵 Fun fact: I do ballet and play the keyboard/guitar!
 
 ### 🙌 Connect With Me
@@ -12,7 +12,7 @@
    [1]: https://www.linkedin.com/in/trisha-anil/
    [2]: https://www.kaggle.com/trishaanil
    [<img align="left" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][1]
-   [<img align="left" width="70px" src="https://upload.wikimedia.org/wikipedia/commons/7/7c/Kaggle_logo.png" />][2]
+   [<img align="left" width="60px" src="https://upload.wikimedia.org/wikipedia/commons/7/7c/Kaggle_logo.png" />][2]
    
 <br />
 
