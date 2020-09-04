@@ -11,8 +11,10 @@
 
    [1]: https://www.linkedin.com/in/trisha-anil/
    [2]: https://www.kaggle.com/trishaanil
+   [3]: https://www.hackerrank.com/trishaviking
    [<img align="left" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][1]
    [<img align="left" width="60px" src="https://upload.wikimedia.org/wikipedia/commons/7/7c/Kaggle_logo.png" />][2]
+   [<img align="left" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/HackerRank_Icon-1000px.png/330px-HackerRank_Icon-1000px.png" />][3]
    
 <br />
 
