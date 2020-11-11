@@ -3,7 +3,7 @@
 ## I'm an Electronics Engineering Student With a Love for Algorithms!
 - 🔬 I'm currently working on an image segmentation research project with my peers
 - 📚 I’ve started expanding my knowledge of algorithms through an online course
-- 👯 I’m looking to collaborate on projects related to computer vision
+- 👯 I’m currently looking to collaborate on projects that include a mix of both Computer Vision and NLP
 - 📝 2020 Goals: Work on ideas that have been on my mind for a year
 - 🎵 Fun fact: I do ballet and play the keyboard/guitar!
 
