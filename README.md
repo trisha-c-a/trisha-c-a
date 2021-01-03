@@ -4,7 +4,7 @@
 - 🔬 I'm currently working on an image segmentation research project with my peers
 - 📚 I’ve started expanding my knowledge of algorithms through an online course
 - 👯 I’m currently looking to collaborate on projects that include a mix of both Computer Vision and NLP
-- 📝 2020 Goals: Work on ideas that have been on my mind for a year
+- 📝 2021 Goals: Work on projects that involve the fusion of vision and language
 - 🎵 Fun fact: I do ballet and play the keyboard/guitar!
 
 ### 🙌 Connect With Me
@@ -43,6 +43,7 @@
 
 ### 📕 Articles I've Worked On
 <!-- BLOG-POST-LIST:START -->
+- [Movements, Revolutions and The Promise of Egalitarianism](https://themitpost.com/movements-revolutions-promise-egalitarianism/)
 - [Sailing Towards a Global Epidemic](https://themitpost.com/sailing-towards-global-epidemic/)
 - [The Solution to Accelerated Human Evolution](https://themitpost.com/solution-accelerated-human-evolution/)
 - [The Race Against Superbugs](https://themitpost.com/the-race-against-superbugs/)
