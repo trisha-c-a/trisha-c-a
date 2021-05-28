@@ -20,13 +20,18 @@
 
 ---
 
-### 🔧 Languages and Tools
+### 🔧 Languages, Frameworks, Libraries and More!
 
    <img align="left" width="22px" src="https://github.com/isocpp/logos/blob/master/cpp_logo.svg" />
    <img align="left" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" />
+   <img align="left" width="22px" src="https://www.r-project.org/Rlogo.png" />
    <img align="left" width="22px" src="https://github.com/valohai/ml-logos/blob/master/tensorflow-tf.svg" />
    <img align="left" width="22px" src="https://github.com/valohai/ml-logos/blob/master/keras.svg" />
    <img align="left" width="70px" src="https://github.com/valohai/ml-logos/blob/master/pytorch.svg" />
+   <img align="left" width="22px" src="https://opencv.org/wp-content/uploads/2020/07/cropped-OpenCV_logo_white_600x.png" />
+   <img align="left" width="70px" src="https://d33wubrfki0l68.cloudfront.net/62bcc8535a06077094ca3c29c383e37ad7334311/a263f/assets/img/logo.svg" />
+   <img align="left" width="120px" src="https://assets-cdn.anaconda.com/assets/company/anaconda-logo.png?mtime=20200723150109&focal=none" />
+   <img align="left" width="24px" src="https://colab.research.google.com/img/colab_favicon_256px.png" />
    <img align="left" width="22px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
    
 <br />
