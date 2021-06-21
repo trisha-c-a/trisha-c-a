@@ -3,8 +3,8 @@
 ## I'm an Electronics Engineering Student With a Love for Algorithms!
 - 🔬 I'm currently working on an image segmentation research project with my peers
 - 📚 I’ve started expanding my knowledge of algorithms through an online course
-- 👯 I’m currently looking to collaborate on projects that include a mix of both Computer Vision and NLP
-- 📝 2021 Goals: Work on projects that involve the fusion of vision and language
+- 👯 I’m currently looking to collaborate on projects that involve multimodal analysis
+- 📝 2021 Goals: Work on projects in the domain of Visual Question Answering
 - 🎵 Fun fact: I do ballet and play the keyboard/guitar!
 
 ### 🙌 Connect With Me
@@ -40,8 +40,8 @@
 
 ### 💻 Latest Projects
 <!-- BLOG-POST-LIST:START -->
+- [Visual_Question_Answering_with_Keras](https://github.com/trisha-c-a/Visual-Question-Answering-with-Keras)
 - [Wheat_Detection_Using_Faster_R-CNN](https://github.com/trisha-c-a/Wheat_Detection_Using_Faster_R-CNN)
-- [The_Office_YOLOv3](https://github.com/trisha-c-a/The_Office_YOLOv3)
 <!-- BLOG-POST-LIST:END -->
 
 ---
